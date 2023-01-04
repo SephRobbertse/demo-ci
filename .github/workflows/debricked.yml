@@ -1,4 +1,4 @@
-name: Debricked scan
+name: Debricked scans
 
 on: [push, pull_request]
 
